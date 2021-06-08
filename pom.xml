@@ -49,6 +49,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>decadevs-docker-kehinde</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
